@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "290703289403",
+    "project_id": "adventur-ads",
+    "storage_bucket": "adventur-ads.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290703289403:android:57fb06121be96e92e2801e",
+        "android_client_info": {
+          "package_name": "com.asml.dose.adventur_ads.www.adventur_ads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290703289403-qdi7kdhb6jnaip6dpmsff1bvktdipc8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asml.dose.adventur_ads.www.adventur_ads",
+            "certificate_hash": "ca0304c28cf7003bfce0b992748e0dd9b08c4ef7"
+          }
+        },
+        {
+          "client_id": "290703289403-2gc4j8c2qrm9fk6gsje9126uisg6hkn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPY8YULdUpsHUCDpXXmGWcLjhnAQ5TYoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290703289403-2gc4j8c2qrm9fk6gsje9126uisg6hkn5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "290703289403-to2tqeahc8rd83f9v6tasvpoonvgssh9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asml.dose.adventurads.www.adventurAds"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
